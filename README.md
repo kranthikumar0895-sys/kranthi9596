@@ -17,9 +17,3 @@ Features:
   - Automation: Generate recurring reports and tasks  
   - Visualization: Optional charts and insights  
 
-Setup:  
-  - CloneRepo: `git clone https://github.com/kranthi9596/Finance.git`  
-  - InstallDependencies: `pip install -r requirements.txt`  
-  - RunServer: `uvicorn main:app --reload`  
-
-License: MIT
